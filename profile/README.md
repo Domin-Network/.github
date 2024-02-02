@@ -6,7 +6,9 @@
 
 ## [Office of Inspector General on Domin](https://github.com/Domin-Network/OIG)
 
-## Proposals on blockchain
+## [Blog](https://blog.domin.network)
+
+## Proposals on blockchains
 
 ### Ethereum
 
